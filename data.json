@@ -1,0 +1,72 @@
+[
+    {
+        "ano": 2023,
+        "ciclista": "Jonas Vingegaard",
+        "equipe": "Jumbo-Visma",
+        "marca": "Cervélo",
+        "modelo": "R5"
+    },
+    {
+        "ano": 2022,
+        "ciclista": "Jonas Vingegaard",
+        "equipe": "Jumbo-Visma",
+        "marca": "Cervélo",
+        "modelo": "R5"
+    },
+    {
+        "ano": 2021,
+        "ciclista": "Tadej Pogačar",
+        "equipe": "UAE Team Emirates",
+        "marca": "Colnago",
+        "modelo": "V3Rs"
+    },
+    {
+        "ano": 2020,
+        "ciclista": "Tadej Pogačar",
+        "equipe": "UAE Team Emirates",
+        "marca": "Colnago",
+        "modelo": "V3Rs"
+    },
+    {
+        "ano": 2019,
+        "ciclista": "Egan Bernal",
+        "equipe": "Team Ineos",
+        "marca": "Pinarello",
+        "modelo": "Dogma F12"
+    },
+    {
+        "ano": 2018,
+        "ciclista": "Geraint Thomas",
+        "equipe": "Team Sky",
+        "marca": "Pinarello",
+        "modelo": "Dogma F10"
+    },
+    {
+        "ano": 2017,
+        "ciclista": "Chris Froome",
+        "equipe": "Team Sky",
+        "marca": "Pinarello",
+        "modelo": "Dogma F10"
+    },
+    {
+        "ano": 2016,
+        "ciclista": "Chris Froome",
+        "equipe": "Team Sky",
+        "marca": "Pinarello",
+        "modelo": "Dogma F8"
+    },
+    {
+        "ano": 2015,
+        "ciclista": "Chris Froome",
+        "equipe": "Team Sky",
+        "marca": "Pinarello",
+        "modelo": "Dogma F8"
+    },
+    {
+        "ano": 2014,
+        "ciclista": "Vincenzo Nibali",
+        "equipe": "Astana Pro Team",
+        "marca": "Specialized",
+        "modelo": "S-Works Tarmac"
+    }
+]
